@@ -1,16 +1,14 @@
-# [Project name]
+# Google Fit Weight Importer
 
-[Project description]
-
-## Prerequisites
-
-- [dependecy]
+Import weight history from a file into Google Fit
 
 ## Installation
 
+Coming soon...
+
 ```bash
-git clone https://github.com/y-garcia/[repository]
-cd [repository]
+git clone https://github.com/y-garcia/google-fit-import
+cd google-fit-import
 ```
 
 ## Usage
@@ -24,7 +22,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available,
-see the [tags on this repository](https://github.com/y-garcia/[repository]/tags).
+see the [tags on this repository](https://github.com/y-garcia/google-fit-import/tags).
 
 See the [CHANGELOG.md](CHANGELOG.md) file for details. 
 
@@ -32,7 +30,7 @@ See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
 * **Yeray García Quintana** - Initial work - [y-garcia](https://github.com/y-garcia)
 
-See also the list of [contributors](https://github.com/y-garcia/[repository]/contributors) who participated in this 
+See also the list of [contributors](https://github.com/y-garcia/google-fit-import/contributors) who participated in this 
 project.
 
 ## License
